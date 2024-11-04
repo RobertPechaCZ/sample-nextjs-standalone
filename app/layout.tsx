@@ -37,8 +37,8 @@ export default function RootLayout({
             <footer className="text-center">
                 <p className="block p-4">
                 <span className='block'><a
-                    href="https://fleek.com">Fleek</a> is the best Platform as a Service on the market:</span>
-                    no server to install, no dependencies to install, just push your code!
+                    href="https://fleek.xyz">Fleek</a> is the best Platform as a Service on the market:</span>
+                    fleek, fleek, fleek and fleek again!
                 </p>
             </footer>
         </div>
