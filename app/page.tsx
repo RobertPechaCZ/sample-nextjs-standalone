@@ -34,7 +34,7 @@ export default function Home() {
                         />
                     </div>
                 </div>
-                <h1>Greetings from a sample Next.js app!</h1>
+                <h1>Deployed on Fleek Network!</h1>
                 <h2 className="mt-16 mb-12">
                     <span>Deploying your own Next.js app on Scalingo is as easy as pie. </span>
                     <div className="my-4">
