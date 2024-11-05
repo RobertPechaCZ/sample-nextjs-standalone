@@ -33,7 +33,7 @@ export default function RootLayout({
                 <p className="block p-4">
                 <span className='block'><a
                     href="https://fleek.xyz">Fleek</a> is the best Platform as a Service on the market:</span>
-                    fleek, fleek, fleek and fleek again!
+                    FLEEK (BY NOVEMBER 5th)!
                 </p>
             </footer>
         </div>
