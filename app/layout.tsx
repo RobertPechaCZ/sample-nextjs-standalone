@@ -20,15 +20,10 @@ export default function RootLayout({
         <head>
             <title>Greetings from a sample Next.js app!</title>
             <meta content='website' property='og:type'/>
-            <meta content='https://cdn.scalingo.com/homepage/assets/fb-33a6a93ddbf90bfdae57407481aa05a4.png'
-                  property='og:image'/>
-            <meta
-                content="Deploying your own Next.js app on Scalingo is as easy as pie: JUST CLICK THIS BUTTON! It will be up in less than 2 minutes!"
-                property='og:description'/>
             <meta charSet="utf-8"/>
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
             <meta httpEquiv="x-ua-compatible" content="ie=edge"/>
-            <link rel="shortcut icon" href="https://scalingo.com/favicon.ico" type="image/vnd.microsoft.icon"/>
+            <link rel="shortcut icon" href="https://fleek.xyz/favicon.ico" type="image/vnd.microsoft.icon"/>
             <link href="https://fonts.googleapis.com/css?family=Roboto:300,500&display=optional" rel="stylesheet"/>
         </head>
         <body className={inter.className}>
@@ -37,8 +32,8 @@ export default function RootLayout({
             <footer className="text-center">
                 <p className="block p-4">
                 <span className='block'><a
-                    href="https://scalingo.com">Scalingo</a> is the best Platform as a Service on the market:</span>
-                    no server to install, no dependencies to install, just push your code!
+                    href="https://fleek.xyz">Fleek</a> is the best Platform as a Service on the market:</span>
+                    FLEEK (BY NOVEMBER 5th)!
                 </p>
             </footer>
         </div>
