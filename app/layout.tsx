@@ -18,7 +18,7 @@ export default function RootLayout({
     return (
         <html lang="en">
         <head>
-            <title>Greetings from a sample Next.js app!</title>
+            <title>NOVEMBER 27TH</title>
             <meta content='website' property='og:type'/>
             <meta content='https://cdn.scalingo.com/homepage/assets/fb-33a6a93ddbf90bfdae57407481aa05a4.png'
                   property='og:image'/>
