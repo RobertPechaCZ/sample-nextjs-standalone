@@ -18,7 +18,7 @@ export default function RootLayout({
     return (
         <html lang="en">
         <head>
-            <title>November 28th - Test #10</title>
+            <title>November 29th - Test #1</title>
             <meta content='website' property='og:type'/>
             <meta content='https://cdn.scalingo.com/homepage/assets/fb-33a6a93ddbf90bfdae57407481aa05a4.png'
                   property='og:image'/>
